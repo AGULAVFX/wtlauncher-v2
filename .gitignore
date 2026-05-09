@@ -1,0 +1,22 @@
+bin/
+obj/
+.vs/
+.idea/
+
+*.user
+*.suo
+*.cache
+*.log
+
+*.zip
+*.7z
+*.rar
+
+# Local launcher settings
+settings.json
+
+# Optional: ignore heavy media in source repo
+*.mp4
+*.mov
+*.avi
+*.wmv
